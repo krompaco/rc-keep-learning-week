@@ -1,0 +1,11 @@
+_ReSharper.Caches/
+.vs/
+*.csproj.user
+bin
+obj
+appsettings.Development.json
+node_modules
+artifacts/static-site/
+src/Krompaco.RecordCollector.Web/wwwroot/dist/*.js
+src/Krompaco.RecordCollector.Web/wwwroot/dist/*.map
+src/Krompaco.RecordCollector.Web/wwwroot/dist/*.css
